@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-helm/tiller:v2.10.0
+FROM k8s.gcr.io/kubernetes-helm/tiller:latest
 MAINTAINER yanrengyi@cmss.chinamobile.com
